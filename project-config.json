@@ -1,0 +1,17 @@
+{
+  "name": "E2E GH Pages e2e-1781016659802",
+  "slug": "ghpages-e2e-1781016659802",
+  "type": "landing",
+  "template": "E2E Template",
+  "deployment_target": "github-pages",
+  "deployment_platforms": [
+    "github-pages"
+  ],
+  "component_ids": [],
+  "agent_ids": [],
+  "locales": [
+    "en"
+  ],
+  "created_from_template": "dpad-starter",
+  "created_at": "2026-06-09T14:51:08.995Z"
+}
